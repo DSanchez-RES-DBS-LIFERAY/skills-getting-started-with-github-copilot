@@ -1,5 +1,5 @@
+pytest
 fastapi
 uvicorn
 httpx
 watchfiles
-pytest
